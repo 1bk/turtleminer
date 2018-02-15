@@ -13,4 +13,4 @@ cd bin
 cp ~/turtleminer/config.txt . # Use config file from this repo
 
 cd ~/turtleminer
-echo "To start mining, run `. mine.sh` in `turtleminer` directory"
+echo "To start mining, run '. mine.sh' in 'turtleminer' directory"
