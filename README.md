@@ -3,12 +3,12 @@ Mining TRTLs
 
 ## Setup
 ```
-cd xmr-stak
+cd turtleminer
 . setup_trtl.sh
 ```
 
 # Usage
 ```
-cd xmr-stak
-. ~/xmr-stak/mine.sh
+cd turtleminer
+. mine.sh
 ```
