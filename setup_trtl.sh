@@ -12,14 +12,4 @@ make install
 cd bin
 cp ~/turtleminer/config.txt . # Use config file from this repo
 
-# Script for easy-run
-cat > ~/mine.sh <<EOL
-#!/bin/bash
-killall xmr-stak
-killall screen
-
-screen -dmS miner bash -c 'cd ~/xmr-stak/build/bin && ./xmr-stak'
-EOL
-
-# To start mining
-# . ~/mine.sh
+echo "To start mining, run `. mine.sh` in `turtleminer` directory"
