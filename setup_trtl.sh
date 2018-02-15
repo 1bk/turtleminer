@@ -1,5 +1,5 @@
 # Install dependencies
-sudo apt install libmicrohttpd-dev libssl-dev cmake build-essential libhwloc-dev
+sudo apt -y install libmicrohttpd-dev libssl-dev cmake build-essential libhwloc-dev
 
 # Clone & build XMR-STAK
 cd ~ # Reset directory to user HOME
