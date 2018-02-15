@@ -13,5 +13,5 @@ cd bin
 cp ~/turtleminer/config.txt . # Use config file from this repo
 
 cd ~/turtleminer
-echo "SUCCESS!\n"
-echo "To start mining, run '. mine.sh' in 'turtleminer' directory. This will create a new screen"
+echo "SUCCESS!"
+echo "To start mining, run '. mine.sh' in 'turtleminer' directory. This will create a new screen."
