@@ -13,3 +13,6 @@ cd turtleminer
 cd turtleminer
 . mine.sh
 ```
+
+# Config
+- Edit your pools and TRTL address in `config.txt`, otherwise thank you very much :)
