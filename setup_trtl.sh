@@ -16,4 +16,4 @@ cp ~/turtleminer/pools.txt ./bin
 
 cd ~/turtleminer
 echo "SUCCESS!"
-echo "To start mining, run '. mine.sh' in 'turtleminer' directory. This will create a new screen."
+echo "To start mining, run 'bash mine.sh' in 'turtleminer' directory. This will create a new screen."
