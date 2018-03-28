@@ -5,17 +5,17 @@ Mining TRTLs
 ```
 git clone https://github.com/mavx/turtleminer
 cd turtleminer
-. setup_trtl.sh
+bash setup_trtl.sh
 ```
 
 ## Usage
 ```
 cd turtleminer
-. mine.sh
+bash mine.sh
 ```
 
 ## Config
-- Please edit your pools and TRTL address in `config.txt`, otherwise thank you very much :)
+- Please edit your pools and TRTL address in `pools.txt`, otherwise thank you very much :)
 
 
 ## Contribution
