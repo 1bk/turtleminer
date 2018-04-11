@@ -5,8 +5,8 @@ sudo apt -y install libmicrohttpd-dev libssl-dev cmake build-essential libhwloc-
 cd ~ # Reset directory to user HOME
 rm -rf trtl-stak/ # Remove existing xmr-stak directory
 git clone https://github.com/turtlecoin/trtl-stak.git
-mkdir trtl-stak/xmr-stak/build
-cd trtl-stak/xmr-stak/build
+mkdir trtl-stak/xmrstak/build
+cd trtl-stak/xmrstak/build
 cmake -DCUDA_ENABLE=OFF -DOpenCL_ENABLE=OFF ../..
 make install
 
