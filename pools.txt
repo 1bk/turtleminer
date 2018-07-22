@@ -14,7 +14,7 @@
 
 "pool_list" :
 [
-        {"pool_address" : "trtl.mine2gether.com:3335", "wallet_address" : "TRTLuzmaAv4UDoARExyjay58AMVC7jxT8eJD2HMnCxW3bTt8mwYhp1iBr4sCEU3Wj6UYty6S3HYbf4bBkE1dtLCqKMwCbJj7KNs", "rig_id" : "", "pool_password" : "mvxtrtl", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 10 },
+        {"pool_address" : "trtl.pool.mine2gether.com:3335", "wallet_address" : "TRTLuzmaAv4UDoARExyjay58AMVC7jxT8eJD2HMnCxW3bTt8mwYhp1iBr4sCEU3Wj6UYty6S3HYbf4bBkE1dtLCqKMwCbJj7KNs", "rig_id" : "", "pool_password" : "mvxtrtl", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 10 },
         {"pool_address" : "hk.turtlepool.space:3333", "wallet_address" : "TRTLuzmaAv4UDoARExyjay58AMVC7jxT8eJD2HMnCxW3bTt8mwYhp1iBr4sCEU3Wj6UYty6S3HYbf4bBkE1dtLCqKMwCbJj7KNs", "rig_id" : "", "pool_password" : "mvxtrtl", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 9 },
 ],
 
