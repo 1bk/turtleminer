@@ -4,8 +4,8 @@ Mining TRTLs
 ## Setup
 ```
 git clone https://github.com/mavx/turtleminer
-cd turtleminer
-bash setup_trtl.sh
+cd turtleminer/xmrig
+bash setup.sh
 ```
 
 For MacOS, please refer to https://github.com/turtlecoin/trtl-stak/blob/add_turtlecoin/doc/compile_macOS.md
