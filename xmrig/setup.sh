@@ -3,7 +3,8 @@
 # Install dependencies
 sudo apt-get install git build-essential cmake libuv1-dev libmicrohttpd-dev libssl-dev libhwloc-dev
 
-cd
+cd ~
+rm -rf ./xmrig
 git clone https://github.com/xmrig/xmrig.git
 cd xmrig
 mkdir build
