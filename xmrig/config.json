@@ -33,7 +33,7 @@
     "log-file": null,
     "pools": [
         {
-            "algo": "argon2/chukwa",
+            "algo": "argon2/chukwav2",
             "url": "trtl.pool.mine2gether.com:3335",
             "user": "TRTLuzmaAv4UDoARExyjay58AMVC7jxT8eJD2HMnCxW3bTt8mwYhp1iBr4sCEU3Wj6UYty6S3HYbf4bBkE1dtLCqKMwCbJj7KNs",
             "pass": "mvxtrtl",
