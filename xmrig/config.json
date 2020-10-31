@@ -35,7 +35,7 @@
         {
             "algo": "argon2/chukwav2",
             "url": "trtl.pool.mine2gether.com:3335",
-            "user": "TRTLuzmaAv4UDoARExyjay58AMVC7jxT8eJD2HMnCxW3bTt8mwYhp1iBr4sCEU3Wj6UYty6S3HYbf4bBkE1dtLCqKMwCbJj7KNs",
+            "user": "fasdfa",
             "pass": "mvxtrtl",
             "rig-id": null,
             "nicehash": false,
@@ -46,10 +46,4 @@
             "daemon": false
         }
     ],
-    "print-time": 60,
-    "retries": 5,
-    "retry-pause": 5,
-    "syslog": false,
-    "user-agent": null,
-    "watch": true
 }
